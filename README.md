@@ -77,17 +77,20 @@ service-worker.js
 
 ---
 
-## 📸 Screenshots
+## 🎥 Project Demonstration
 
-> Screenshots will be added soon.
+A video walkthrough of the system is available below.
 
-Recommended screenshots:
+📺 Demo Video:
+https://drive.google.com/drive/folders/1GZNzYpw4J-9_lwRt0cb1ZiXMWERtRek_?usp=sharing
 
-- Home Page
-- Reservation Page
-- Login Page
-- Admin Dashboard
-- Booking Confirmation
+The demonstration includes:
+- Home page
+- User registration and login
+- Reservation process
+- Admin dashboard
+- Reservation management
+
 
 ---
 
