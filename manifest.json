@@ -1,0 +1,25 @@
+{
+  "name": "Junmar's Chair and Table Rental",
+  "short_name": "Junmar Rental",
+  "description": "Top-quality table and chair rentals for your events",
+  "start_url": "/index.php",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F0BB78",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/black.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/JunMarLogo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
